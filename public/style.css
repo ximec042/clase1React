@@ -57,7 +57,7 @@ body {
       rgba(255, 255, 255, 0),
       #160001 85%
     ),
-    url("./imagenes/cover_image.jpg");
+    url("/public/imagenes/cover_image.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   display: flex;

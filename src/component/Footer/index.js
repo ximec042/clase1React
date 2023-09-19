@@ -6,7 +6,7 @@ const Footer = () => {
           <div class="box">
             <figure>
               <a href="#">
-                <img src="./imagenes/footer.png" alt="logo footer" />
+                <img src="public/imagenes/footer.png" alt="logo footer" />
               </a>
             </figure>
           </div>
